@@ -68,7 +68,7 @@ class Cliente(object):
     def divida(self, boleano):
         return self._divida
 
-    # Metodo magico para adicionar locacao
+    # Metodo para adicionar locacao
     def alugar(self, qtdbikes, loja):
         self._dtLocacao = datetime.datetime.now()
         self._nBikesAlugadas = qtdbikes
