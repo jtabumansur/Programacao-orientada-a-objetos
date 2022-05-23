@@ -1,7 +1,7 @@
 # Programacao-orientada-a-objetos-em-Python-
 Sistema de empréstimo de bibliotecas, que envolve duas  classes principais (Cliente, Loja)
 
-Observacao- deixei os testes ja prontos no arquivo teste e o resultado da pesquisa no arquivo resultado do teste
+Observacao- deixei os testes ja prontos no arquivo conjunto de testes 
 
 Brief
 
